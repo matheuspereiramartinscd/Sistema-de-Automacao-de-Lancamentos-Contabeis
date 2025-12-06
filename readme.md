@@ -1,20 +1,22 @@
-Aplicativo de automação desenvolvido converter guias DARF da Receita Federal em lançamentos contábeis padronizados no layout do Domínio Sistemas. Entre as principais funcionalidades:
+# Automação para Conversão de Guias DARF em Lançamentos Contábeis
 
-• Leitura automática de PDFs contendo guias DARF
-• Identificação de principal, multa e juros
-• Geração de planilha XLSM estruturada
-• Preparação dos lançamentos para importação via TXT
-• Redução de tarefas manuais e aumento da precisão no processo contábil
+Aplicativo de automação desenvolvido para converter guias DARF da Receita Federal em lançamentos contábeis padronizados no layout do Domínio Sistemas.
 
+## Funcionalidades
+- Leitura automática de PDFs contendo guias DARF  
+- Identificação de principal, multa e juros  
+- Geração de planilha XLSM estruturada  
+- Preparação dos lançamentos para importação via TXT  
+- Redução de tarefas manuais e aumento da precisão no processo contábil  
 
-Tecnologias
-• Python
-• pdfplumber
-• PyPDF2
-• OpenPyXL
-• Regex
-• Pathlib
-• Datetime
+## Tecnologias Utilizadas
+- Python  
+- pdfplumber  
+- PyPDF2  
+- OpenPyXL  
+- Regex  
+- Pathlib  
+- Datetime  
 
 <img width="998" height="700" alt="gerador 2" src="https://github.com/user-attachments/assets/b081b336-fd17-41d4-a60d-1bd8a52c6fce" />
 
