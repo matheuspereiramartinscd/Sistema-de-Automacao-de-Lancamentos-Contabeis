@@ -26,4 +26,4 @@ Aplicativo de automação desenvolvido para converter guias DARF da Receita Fede
 
 <img width="1920" height="1039" alt="gerador5" src="https://github.com/user-attachments/assets/7bb96b36-42a1-4c0f-ad22-d2235eeb39a7" />
 
-
+<img width="1919" height="1037" alt="sdsdsd" src="https://github.com/user-attachments/assets/c2069451-1b1f-4c8b-b9fc-15b27afeb49d" />
