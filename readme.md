@@ -16,7 +16,7 @@ Tecnologias
 • Pathlib
 • Datetime
 
-![Uploading gerador 2.PNG…]()
+<img width="998" height="700" alt="gerador 2" src="https://github.com/user-attachments/assets/b081b336-fd17-41d4-a60d-1bd8a52c6fce" />
 
 <img width="1050" height="722" alt="gerador" src="https://github.com/user-attachments/assets/c2720d3a-f14e-4a07-a702-a2c49c8a2bd0" />
 
